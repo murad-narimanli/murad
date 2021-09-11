@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/murad/static/css/main.38d688bd.chunk.css",
+    "main.js": "/murad/static/js/main.a505f2cd.chunk.js",
+    "main.js.map": "/murad/static/js/main.a505f2cd.chunk.js.map",
+    "runtime-main.js": "/murad/static/js/runtime-main.0a77f188.js",
+    "runtime-main.js.map": "/murad/static/js/runtime-main.0a77f188.js.map",
+    "static/css/2.966aa08d.chunk.css": "/murad/static/css/2.966aa08d.chunk.css",
+    "static/js/2.d5fa33f1.chunk.js": "/murad/static/js/2.d5fa33f1.chunk.js",
+    "static/js/2.d5fa33f1.chunk.js.map": "/murad/static/js/2.d5fa33f1.chunk.js.map",
+    "static/js/3.cf7c90bf.chunk.js": "/murad/static/js/3.cf7c90bf.chunk.js",
+    "static/js/3.cf7c90bf.chunk.js.map": "/murad/static/js/3.cf7c90bf.chunk.js.map",
+    "index.html": "/murad/index.html",
+    "static/css/2.966aa08d.chunk.css.map": "/murad/static/css/2.966aa08d.chunk.css.map",
+    "static/css/main.38d688bd.chunk.css.map": "/murad/static/css/main.38d688bd.chunk.css.map",
+    "static/js/2.d5fa33f1.chunk.js.LICENSE.txt": "/murad/static/js/2.d5fa33f1.chunk.js.LICENSE.txt",
+    "static/media/2.94f95233.jpg": "/murad/static/media/2.94f95233.jpg",
+    "static/media/main.css": "/murad/static/media/kerge_start_page_1.a1bb5f2b.jpg",
+    "static/media/blog_post_1.31931aac.jpg": "/murad/static/media/blog_post_1.31931aac.jpg",
+    "static/media/blog_post_5.5cb12628.jpg": "/murad/static/media/blog_post_5.5cb12628.jpg",
+    "static/media/photo.9b38c028.png": "/murad/static/media/photo.9b38c028.png",
+    "static/media/slick-theme.css": "/murad/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a77f188.js",
+    "static/css/2.966aa08d.chunk.css",
+    "static/js/2.d5fa33f1.chunk.js",
+    "static/css/main.38d688bd.chunk.css",
+    "static/js/main.a505f2cd.chunk.js"
+  ]
+}
